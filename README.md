@@ -9,7 +9,7 @@ The site is responsible from 1440px to 1024px
 Html
 Css
 
--url:
+url:
 https://alan-junqueira.github.io/pricing-table/
 
 ![image](https://user-images.githubusercontent.com/104371202/187800717-f601e4c0-2778-4014-81bb-2758ee7070f1.png)
